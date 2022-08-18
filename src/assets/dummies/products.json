@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "Maxim",
+      "url": "../assets/logo/maxim.png",
+      "price": "150.000",
+      "transactions": "120"
+    },
+    {
+      "name": "Telkomsel",
+      "url": "../assets/logo/telkomsel.png",
+      "price": "25.000",
+      "transactions": "98"
+    },
+    {
+      "name": "Three",
+      "url": "../assets/logo/three.png",
+      "price": "50.000",
+      "transactions": "74"
+    },
+    {
+      "name": "OVO",
+      "url": "../assets/logo/ovo.png",
+      "price": "100.000",
+      "transactions": "68"
+    },
+    {
+      "name": "PLN Postpaid",
+      "url": "../assets/logo/pln.png",
+      "price": "",
+      "transactions": "50"
+    }
+  ]
+}

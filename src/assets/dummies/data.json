@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "name": "Profit",
+      "amount": "Rp 11.500.000",
+      "trend": "fall",
+      "trendValue": "0.3%"
+    },
+    {
+      "name": "Sales",
+      "amount": "Rp 56.000.000",
+      "trend": "rise",
+      "trendValue": "0.5%"
+    },
+    {
+      "name": "Transaction",
+      "amount": "1.090",
+      "trend": "stable",
+      "trendValue": "same"
+    }
+  ]
+}

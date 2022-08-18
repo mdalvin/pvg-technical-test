@@ -1,0 +1,24 @@
+{
+    "main": [
+        {
+            "name": "Dashboard",
+            "path": "/"
+        },
+        {
+            "name": "Balance",
+            "path": "/balance"
+        },
+        {
+            "name": "Transaction",
+            "path": "/transaction"
+        },
+        {
+            "name": "Product",
+            "path": "/product"
+        },
+        {
+            "name": "Channel",
+            "path": "/channel"
+        }
+    ]
+}
